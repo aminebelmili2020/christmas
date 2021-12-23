@@ -1,0 +1,82 @@
+body{background:#2080e3;}
+.face {
+    width:60px;
+    height:60px;
+    background:#ffffff;
+    border-radius:50%;
+    position:fixed;
+    top:95px;
+    left:170px;
+}
+.neck{
+    width:100px;
+    height:18px;
+    background:#2080e3;
+    position:fixed;
+    top:139px;
+    left:155px;
+    z-index: 1;
+}.chal{
+    width:60px;
+    height:10px;
+    background:#FFA63F;
+    border-radius:50px;
+    position:fixed;
+    top:143px;
+    left:170px;
+    z-index:10;
+}
+.body{
+    width:100px;
+    height:100px;
+    background:#fff;
+    border-radius:50px;
+    position:fixed;
+    top:145px;
+    left:150px;
+}
+.hat{
+    z-index:9;
+    width:40px;
+    height: 45px;
+    background:#0E1F2B;
+    position:fixed;
+    top:55px;
+    left:180px
+}.o{
+    z-index:9;
+    width:40px;
+    height:10px;
+    background:#fff;
+    position:fixed;
+    top:70px;
+    left:180px
+}
+.i{
+    z-index:9;
+    width:60px;
+    height:5px;
+    background:#0E1F2B;
+    position:fixed;
+    top:95px;
+    left:170px
+}
+.e{
+    z-index:9;
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    background:#0E1F2B;
+    position:fixed;
+    top:113px;
+    left:185px
+}
+.y{
+    z-index:9;
+    width:10px;
+    height:10px;
+    border-radius:50%;
+    background:#0E1F2B;
+    position:fixed;
+    top:113px;
+    left:205px}
